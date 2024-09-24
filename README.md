@@ -1,9 +1,6 @@
+![Header](./your-header-image-name.png)
 <h1 align="center">Hi 👋, I'm Vansh Arora</h1>
-<h3 align="center">I'm a passionate Web Developer and Software Engineer with a strong foundation in front-end and back-end technologies. Currently pursuing a Bachelor of Technology in Computer Science at VIT Bhopal. I love to travel and Explore</h3>
-
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vansh-903&label=Profile%20views&color=0e75b6&style=flat" alt="vansh-903" /> </p>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **React JS, Node JS, Express JS, Mongo DB**
 
@@ -25,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vansh-903&show_icons=true&locale=en&layout=compact" alt="vansh-903" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vansh-903&show_icons=true&locale=en" alt="vansh-903" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vansh-903&" alt="vansh-903" /></p>
