@@ -1,4 +1,4 @@
-![Header]([./your-header-image-name.png](https://leviarista.github.io/github-profile-header-generator/))
+
 <h1 align="center">Hi 👋, I'm Vansh Arora</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
