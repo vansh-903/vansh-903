@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aroravansh903@gmail.com**
 
-- 📄 Know about my experiences [My_Portfolio]([https://drive.google.com/file/d/1yPF4AxgPFfL7jg0S9MyNekwBOTxDmub1/view?usp=drive_link](https://portfolio-ecru-delta-80.vercel.app/))
+- 📄 Know about my experiences([https://portfolio-ecru-delta-80.vercel.app/](https://portfolio-ecru-delta-80.vercel.app/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
